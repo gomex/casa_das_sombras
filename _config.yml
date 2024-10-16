@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Casa das Sombras'
 description: 'Um site de poesias'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://2.gravatar.com/avatar/6296292531bfb6076c6c9949f800fb03a3b9d2abf6851c8a4bfc52320668caf5?size=512"
 
 # Pagination
 paginate: 5
