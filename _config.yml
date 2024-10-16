@@ -21,10 +21,10 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://casadassombras.netlify.app'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Casa das Sombras'
+description: 'Um site de poesias'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
@@ -51,9 +51,9 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
+    description: "Casa das Sombras"
     feature_text: |
-      Welcome to my blog
+     Um site de poesias
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # Collection settings

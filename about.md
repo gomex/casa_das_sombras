@@ -1,5 +1,5 @@
 ---
-title: About this website
+title: Sobre esse site
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Um site de poesias. Para eu não perder minhas poesias
